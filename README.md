@@ -21,7 +21,7 @@ bgImageStyle: {
   margin: 0 ,
   boxShadow: 'none'
 }
-isShowTitleInHome: false 
+isShowTitleInHome: true 
 actionText: Guide
 actionLink: /views/other/guide
 features:
