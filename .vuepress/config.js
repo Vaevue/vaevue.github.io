@@ -3,6 +3,8 @@ module.exports = {
   "description": "Jian Ying",
   "dest": "dist",
   "base" : "./",
+  "host" : "0.0.0.0",
+  "post" : 9527,
   "plugins": [
     ["vuepress-plugin-boxx"]
     ] ,
