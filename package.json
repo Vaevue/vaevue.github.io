@@ -1,0 +1,18 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.5.4",
+    "vuepress-theme-reco": "1.5.7",
+    "vuepress-plugin-boxx": "0.0.7"
+  },
+  "dependencies": {
+    "vue-class-component": "^7.2.3"
+  },
+  "description": "y"
+}
