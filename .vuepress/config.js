@@ -28,15 +28,6 @@ module.exports = {
       "type": "text/javascript",
       "src": "/js/MouseClickEffect.js"
     }],
-    ['script', {}, `
-          var _hmt = _hmt || [];
-          (function() {
-            var hm = document.createElement("script");
-            hm.src = "https://hm.baidu.com/hm.js?b0aae218897fa9d8a9f76e9a77e0b3c6";
-            var s = document.getElementsByTagName("script")[0]; 
-            s.parentNode.insertBefore(hm, s);
-          })();
-        `] //百度统计
   ],
   
   "theme": "reco",
