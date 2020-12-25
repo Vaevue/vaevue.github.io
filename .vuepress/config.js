@@ -2,7 +2,7 @@ module.exports = {
   "title": "Jian Ying",
   "description": "Jian Ying",
   "dest": "dist",
-  "base" : "./",
+  "base" : "/dist/",
   "host" : "0.0.0.0",
   "post" : 9527,
   "plugins": [
