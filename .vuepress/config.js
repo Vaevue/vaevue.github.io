@@ -2,6 +2,7 @@ module.exports = {
   "title": "Jian Ying",
   "description": "Jian Ying",
   "dest": "dist",
+  "base" : "./",
   "plugins": [
     ["vuepress-plugin-boxx"]
     ] ,
