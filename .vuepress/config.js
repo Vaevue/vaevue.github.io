@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "Jian Ying",
-  "description": "Jian Ying",
+  "title": "Xiao Jing Jing ",
+  "description": "愿小晶晶开心每一天，健健康康。",
   "dest": "dist",
   "base" : "/dist/",
   "host" : "0.0.0.0",
@@ -37,6 +37,19 @@ module.exports = {
         "text": "首页",
         "link": "/",
         "icon": "reco-home"
+      },
+      {
+        "text" : "音乐",
+        "items" : [
+          {
+            "text" : "晶晶音乐",
+            "link" : "http://jianyingblog.top/music/dist/index.html#/find"
+          },
+          {
+            "text" : "晶晶音乐-Two",
+            "link" : "https://music.quietguoguo.com/"
+          }
+        ]
       },
       {
         "text": "时间轴",

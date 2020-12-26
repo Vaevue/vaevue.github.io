@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Jian Ying 
+heroText:  
 tagline: 宁静致远，水滴石穿。
 # heroImage: /hero.png
 # heroImageStyle: {
