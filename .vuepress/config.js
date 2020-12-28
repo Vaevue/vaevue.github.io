@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "Xiao Jing Jing ",
+  "title": "Jian Ying 的个人博客",
   "description": "愿小晶晶开心每一天，健健康康。",
   "dest": "dist",
   "base" : "/dist/",
